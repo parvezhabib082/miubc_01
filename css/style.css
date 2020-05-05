@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+    font-family: century;
+}
+.form_01{
+background-image: url(../images/image_2.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+overflow: hidden;
+padding: 2% 0;
+}
+.form_02{
+padding: 0 0 0 15%;
+color: #626262;
+font-size: 16px;
+}
+#register {
+background-color: rgba(227,216,214,.5);
+width: 67%;
+margin: 0 auto;
+padding: 5% 0;
+}
+#register:hover{
+	border: 1px solid white;
+}
+#register h1{
+margin: 0 0 5% 12%;
+}
+
+#name {
+width: 80%;
+padding: 1% 0;
+font-size: 16px;
+    margin: 1% 0;
+    border: none;
+}
+
+#num {
+    padding: 1% 0;
+    font-size: 16px;
+        margin: 1% 0;
+        border: none;
+}
+
+#mnum {
+width: 71.5%;
+padding: 1% 0;
+font-size: 16px;
+margin: 1% 0;
+border: none;
+}
+.head{
+	font-weight: 700;
+}
+
+#male {
+font-weight: 700;
+}
+
+#sub {
+width: 80%;
+padding: 1% 0;
+font-size: 16px;
+    margin: 1% 0;
+    border:none;
+    color: #626262;
+}
+#sub:hover{
+	background-color: #626262;
+	color: white;
+}
+
